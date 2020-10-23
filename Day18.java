@@ -10,7 +10,7 @@ import static java.lang.System.out;
 //
 // System => java.lang.* < 이 패키지는 자동으로 imoprt 중이므로 선언 x
 // https://www.oracle.com/java/technologies/javase-documentation.html
-// Documentation - > 자바 메뉴얼
+// Documentation - > 자바 메뉴얼.
 //
 
 // 접근 제어자
