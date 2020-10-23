@@ -82,7 +82,7 @@ class ss{
 	static int a;
 	static int t;
 	static int e;
-	static { // 정적 초기화 블럭
+	static { // 정적 초기화 블럭.
 		t = 10;
 		e = 10;
 	}
