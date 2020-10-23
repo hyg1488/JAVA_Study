@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-/*	java.lang.*  패키지 활용
+/*	java.lang.*  패키지 활용1
  * 
  * 	hashCode() : 일반변수는 없고 각 객체마다 존재함.
  * 
