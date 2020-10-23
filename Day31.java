@@ -1,7 +1,7 @@
 import java.util.*;
 
 /*
- *  Stack	- 클래스
+ *  Stack	- 클래스.
  *  	push, pop
  *  Queue	- 인터페이스
  *  	offer, poll
