@@ -2,7 +2,7 @@
 import java.util.*;
 
 /*
- * 	컬렉션 프레임웍 ( Collections Framework)
+ * 	컬렉션 프레임웍 ( Collections Framework).
  * 	원리는 배열과 같지만 크기 자동 조절, 어떤 타입도 다 들어감 (전부 오브젝트로 들어감.)
  * 
  * 	List , set , map
