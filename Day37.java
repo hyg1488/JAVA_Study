@@ -5,7 +5,7 @@ public class Exam01 {
 		File f1 = new File("c:\\data\\hel.txt");
 		if(f1.exists()) {
 			f1.deleteOnExit();	// 실행후 자동삭제
-			f1.mkdir();	// 파일이 없으면 생성
+			f1.mkdir();	// 파일이 없으면 생성 
 			System.out.println("파일명 : "+f1.getName());
 			System.out.println("파일 경로 : "+f1.getPath());
 			System.out.println("파일 경로 : "+f1.getParent());
