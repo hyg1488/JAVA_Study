@@ -11,6 +11,7 @@ class DD implements Runnable{
 		}
 	};
 }
+
 public class day10_01 {
 	public static void main(String[] args) {
 		Runnable r = new DD();
